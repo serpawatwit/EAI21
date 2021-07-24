@@ -18,4 +18,5 @@
 ## Assessment 3:
 
   **Question:** If I apply pooling of 2 (2,2 window with a stride of 2) to a (6,6) array, what is the resulting size?
+  
   **Answer:**  
