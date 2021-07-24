@@ -10,3 +10,12 @@
 
 ![Tuned Neural Network Model](./Tuned_Neural_Network.PNG) 
 ![Linear Regression Model](./Linear_Regression_Model.PNG)
+
+## Assessment 2:
+
+  Grab a pen/paper or your favorite note-taking device and follow the examples in the video on your own.  
+  
+## Assessment 3:
+
+  **Question:** If I apply pooling of 2 (2,2 window with a stride of 2) to a (6,6) array, what is the resulting size?
+  **Answer:**  
