@@ -19,4 +19,23 @@
 
   **Question:** If I apply pooling of 2 (2,2 window with a stride of 2) to a (6,6) array, what is the resulting size?
   
-  **Answer:**  
+  **Answer:** The resulting size would be 
+  
+## Assessment 4:
+
+  **Question:** What is my output size if: Input = (100,100), kernel size=(2,2), stride of 1 and no pooling? 
+  
+  **Answer:**  The output size would be 
+  
+  **Question:** How many weights do I have if I have 24 such filters stacked (conv2_24)?
+  
+  **Answer:**  You would have
+  
+  **Question:** What is a better idea: To use one larger kernel (7,7) or multiple stacked smaller ones, 3x(3,3)? 
+  
+  **Answer:**  The better idea is to use 
+  
+  **Question:** Solve for the padding (P), in terms of I, F and S, if we want the input and output size to remain the same. 
+  
+  **Answer:** 
+
