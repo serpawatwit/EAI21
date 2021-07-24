@@ -6,4 +6,5 @@ The MSe (Mean Squared Error) for the linear regression model was 14.25 while the
 
 The train and test results of the tuned Neural Network after adding 5 hidden layers with 128 neurons each became slightly closer. The trained results became closer to the test results, however they were not exact and the change isnt immediately noticable when looking at the values plotted on a graph.
 
-![data screenshot](./data_preview.PNG)
+![Tuned Neural Network Model](./Tuned Neural Network.PNG) 
+![Linear Regression Model](./Linear Regression Model.PNG)
