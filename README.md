@@ -46,5 +46,10 @@
   
   **Question:** Solve for the padding (P), in terms of I, F and S, if we want the input and output size to remain the same. 
   
-  **Answer:** 
+  **Answer:** The number of padding layers needed in both the x and y direction can be found with the following equation:
+  
+<p align="center">
+  <img src="Padding_Layers_Equation.PNG">
+</p>
 
+When Using this equation always round up to the nearest whole number.
