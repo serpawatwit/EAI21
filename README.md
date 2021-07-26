@@ -36,7 +36,7 @@
   
   **Question:** How many weights do I have if I have 24 such filters stacked (conv2_24)?
   
-  **Answer:**  You would have 96 weights (2,2,24).
+  **Answer:**  You would have 96 weights if there were 24 stacked (2,2) filters (2,2,24).
   
   **Question:** What is a better idea: To use one larger kernel (7,7) or multiple stacked smaller ones, 3x(3,3)? 
   
