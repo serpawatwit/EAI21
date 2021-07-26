@@ -36,11 +36,11 @@
   
   **Question:** How many weights do I have if I have 24 such filters stacked (conv2_24)?
   
-  **Answer:**  You would have 5,776 weights. *
+  **Answer:**  You would have 96 weights (2,2,24).
   
   **Question:** What is a better idea: To use one larger kernel (7,7) or multiple stacked smaller ones, 3x(3,3)? 
   
-  **Answer:**  The better idea is to use 
+  **Answer:**  The better idea is to use multiple stacked smaller kernels. This is because using multiple smaller kernels will lead to greater efficiency when computing since there will be only 27 weights (3,3,3) compared to the 49 weights used for the one larger kernel (7,7,1). Using three smaller kernels will also lead to greater complexity than a single large kernel.
   
   **Question:** Solve for the padding (P), in terms of I, F and S, if we want the input and output size to remain the same. 
   
