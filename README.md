@@ -4,14 +4,14 @@
 
   The MSE (Mean Squared Error) for the linear regression model was 14.25 while the MAE (Mean Absolute Error) for the linear regression model was 2.57. In comparison, my tuned nural network with a longer train time, additional hidden layers and a greater number of neurons had a MSE of 12.46 and an MAE of 2.12.
 
-  The train and test results of the tuned Neural Network after adding 5 hidden layers with 128 neurons each became slightly closer. The trained results became closer to the test results, however they were not exact and the change isnt immediately noticable when looking at the values plotted on a graph.
+  The train and test results of the tuned Neural Network after adding 5 hidden layers with 128 neurons each became slightly closer. The trained results became closer to the test results, however they were not exact. The changes betweem the two are clearly noticable when looking at the graphs.
   
-  Below are the Models obtained through both approaches. The Tuned Neural Network Model is on the left and the Linear Regression Model is on the left. The code for this assessment can be found [here](https://github.com/serpawatwit/Lab3_CNN/blob/main/Boston_housing_dense_NN_using_Keras_pipeline.ipynb).
+  Below are the Models obtained through both approaches. The Linear Regression Model is on the left and the Tuned Neural Network Model is on the right. The code for this assessment can be found [here](https://github.com/serpawatwit/Lab3_CNN/blob/main/Boston_housing_dense_NN_using_Keras_pipeline.ipynb).
 
 
 <p align="center">
-  <img src="Tuned_Neural_Network.PNG">
   <img src="Linear_Regression_Model.PNG">
+  <img src="Tuned_Neural_Network.PNG">
 </p>
 
 ## Assessment 2:
