@@ -16,6 +16,8 @@
 
 ## Assessment 2:
 
+Notes taken for lecture 2 can be found below:
+
 <p align="center">
   <img src="Lecture_2_Notes.jpg">
 </p> 
