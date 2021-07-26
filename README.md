@@ -55,5 +55,5 @@
 When Using this equation always round up to the nearest whole number. The following equation can be used to find the size of the output after substituting in the value found for P:
 
 <p align="center">
-  <img src="Size_Of_Out.PNG">
+  <img src="Size_Of_Output.PNG">
 </p>
