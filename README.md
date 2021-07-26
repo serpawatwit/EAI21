@@ -21,6 +21,10 @@
   
   **Answer:** The resulting size would be (3, 3).
   
+<p align="center">
+  ![Pooling Image](./A3.JPG)
+</p> 
+  
 ## Assessment 4:
 
   **Question:** What is my output size if: Input = (100,100), kernel size=(2,2), stride of 1 and no pooling? 
