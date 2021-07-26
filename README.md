@@ -17,7 +17,7 @@
 ## Assessment 2:
 
 <p align="center">
-  <img src="Lecture_2_Notes.JPG">
+  <img src="Lecture_2_Notes.jpg">
 </p> 
   
 ## Assessment 3:
