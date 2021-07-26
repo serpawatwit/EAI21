@@ -8,8 +8,11 @@
   
   Below are the Models obtained through both approaches. The Tuned Neural Network Model is on the left and the Linear Regression Model is on the left. The code for this assessment can be found [here](https://github.com/serpawatwit/Lab3_CNN/blob/main/Boston_housing_dense_NN_using_Keras_pipeline.ipynb).
 
-![Tuned Neural Network Model](./Tuned_Neural_Network.PNG) 
-![Linear Regression Model](./Linear_Regression_Model.PNG)
+
+<p align="center">
+  <img src="Tuned_Neural_Network.PNG">
+  <img src="Linear_Regression_Model.PNG">
+</p>
 
 ## Assessment 2:
 
