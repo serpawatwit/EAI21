@@ -16,7 +16,7 @@
 
 ## Assessment 2:
 
-  Grab a pen/paper or your favorite note-taking device and follow the examples in the video on your own.  
+  
   
 ## Assessment 3:
 
@@ -32,7 +32,7 @@
 
   **Question:** What is my output size if: Input = (100,100), kernel size=(2,2), stride of 1 and no pooling? 
   
-  **Answer:**  The output size would be (99, 99). *
+  **Answer:**  The output size would be (99, 99).
   
   **Question:** How many weights do I have if I have 24 such filters stacked (conv2_24)?
   
