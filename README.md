@@ -22,7 +22,7 @@
   **Answer:** The resulting size would be (3, 3).
   
 <p align="center">
-  ![Pooling Image](./A3.JPG)
+  <img src="A3.JPG">
 </p> 
   
 ## Assessment 4:
