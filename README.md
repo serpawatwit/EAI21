@@ -62,3 +62,7 @@ When Using this equation always round up to the nearest whole number. The follow
 <p align="center">
   <img src="Size_Of_Output.PNG">
 </p>
+
+## Assessment 5:
+
+  When creating the and fitting the model to identify cats and dogs I decided to go with 16 layers, segmented with three Conv2D layers followed by a MaxPooling2D() layer three seperate times. The MaxPooling2D() layers are used to minimize overfitting the model. After this series of layers, a Flatten layer is created to prepare the data for the dense layers. Then two dense layers are made, one to take the neurons from the previous layers and deeply connect them. The other is used for the y_train data.
